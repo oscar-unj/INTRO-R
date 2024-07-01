@@ -1,1 +1,1 @@
-Programa para imprimir en el formato PDF mediante el paquete "rmarkdown".
+Programa para imprimir en el formato PDF mediante el paquete **rmarkdown**.
