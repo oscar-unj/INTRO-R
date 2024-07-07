@@ -10,7 +10,9 @@ _Carga mecánica aplicada (en Newtons o kilogramos)._
 **Variables dependientes:**
 
 _Eficiencia del motor (%)._
+
 _Temperatura del motor (°C)._
+
 _Nivel de vibración (mm/s)._
 
 **Diseño Experimental**
