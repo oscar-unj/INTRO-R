@@ -20,7 +20,7 @@ Los datos de las columnas del archivo  **datos_mantenimiento.csv** son los sigui
 
 REFERENCIA
 
-Oscar Núñez Mori. 07-Julio-2024. Basado en: OpenAI(2024). _ChatGPT_ (Ver. 06 Jul.)[Analisis de Mantenimiento Predictivo]. 
+**Oscar Núñez Mori**. 07-Julio-2024. Basado en: OpenAI(2024). _ChatGPT_ (Ver. 06 Jul.)[Analisis de Mantenimiento Predictivo]. 
  <https://chatgpt.com/share/4f970cfc-cba2-4ffb-a9c4-831aad595d9e>
 
 
