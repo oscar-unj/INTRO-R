@@ -23,7 +23,7 @@ Medición de variables dependientes: Registrar los valores de eficiencia, temper
 
 REFERENCIA: 
 
-Oscar Núñez Mori. Jaén, 06-Julio-2024. Basado en: 
+**Oscar Núñez Mori**. Jaén, 06-Julio-2024. Basado en: 
 OpenAI(2024). _ChatGPT_ (Versión de 06 de Julio)[Diseño Experimental en R]. <https://chatgpt.com/share/0b88fe3b-4737-4bb0-ab09-2032da4b5d2c>
 
 
