@@ -2,7 +2,6 @@
 
 Evaluar el rendimiento de motores eléctricos bajo diferentes condiciones de carga mecánica, midiendo parámetros como la eficiencia, la temperatura y la vibración.
 
-Variables del Estudio
 **Variable independiente:**
 
 _Carga mecánica aplicada (en Newtons o kilogramos)._
