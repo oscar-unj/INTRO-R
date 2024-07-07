@@ -1,4 +1,4 @@
-# RENDIMIENTO DE UN MOTOR ELÉCTRICO
+## RENDIMIENTO DE UN MOTOR ELÉCTRICO
 
 Evaluar el rendimiento de motores eléctricos bajo diferentes condiciones de carga mecánica, midiendo parámetros como la eficiencia, la temperatura y la vibración.
 
