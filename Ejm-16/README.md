@@ -2,23 +2,22 @@
 
 ### Descripción del Código
 
-Función de activación sigmoide: Utilizamos la función sigmoide y su derivada para la activación y el cálculo de los gradientes.
+**Función de activación sigmoide**: Utilizamos la función sigmoide y su derivada para la activación y el cálculo de los gradientes.
 
-Inicialización de pesos: Los pesos se inicializan aleatoriamente para empezar el entrenamiento.
+**Inicialización de pesos**: Los pesos se inicializan aleatoriamente para empezar el entrenamiento.
 
-Propagación hacia adelante (Forward propagation): Calculamos las salidas de la red neuronal a través de las capas utilizando la función de activación.
+**Propagación hacia adelante (Forward propagation)**: Calculamos las salidas de la red neuronal a través de las capas utilizando la función de activación.
 
-Cálculo del error: Calculamos el error de la predicción y utilizamos la derivada de la función de activación para obtener los gradientes.
+**Cálculo del error**: Calculamos el error de la predicción y utilizamos la derivada de la función de activación para obtener los gradientes.
 
-Retropropagación (Backpropagation): Ajustamos los pesos de la red utilizando los gradientes calculados.
+**Retropropagación (Backpropagation)**: Ajustamos los pesos de la red utilizando los gradientes calculados.
 
-Entrenamiento: Repetimos el proceso de propagación hacia adelante y retropropagación durante un número determinado de épocas.
+**Entrenamiento**: Repetimos el proceso de propagación hacia adelante y retropropagación durante un número determinado de épocas.
 
-Gráfico de resultados: Finalmente, generamos un gráfico comparando los valores deseados con los predichos por la red neuronal.
-
-Este código entrena una red neuronal simple con una capa oculta y luego genera un gráfico que compara los resultados deseados con los resultados predichos.
+**Gráfico de resultados**: Finalmente, generamos un gráfico comparando los valores deseados con los predichos por la red neuronal.
 
 
+_Este código entrena una red neuronal simple con una capa oculta y luego genera un gráfico que compara los resultados deseados con los resultados predichos._
 
 
 ### REFERENCIA
