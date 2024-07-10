@@ -1,0 +1,11 @@
+El Archivo salarios.csv fue creado usando como base la referencia de Fox y Weisberg (2011).
+
+# REFERENCIAS
+# Oscar Núñez Mori. Jaén, 10-Jul-2024. Basado en:
+# - Kabacoff. R. (s.f.) Modern Data Visualization with R. Chap. 6.
+#   https://rkabacoff.github.io/datavis/Multivariate.html
+#   https://github.com/Rkabacoff/datavis_support
+# - Fox J. and Weisberg, S. (2011) An R Companion to Applied Regression, 2nd. Sage.
+#   https://www.rdocumentation.org/packages/carData/versions/3.0-1/topics/Salaries
+
+
