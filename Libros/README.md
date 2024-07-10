@@ -4,6 +4,7 @@
 
 2. **Contento, M. R. (2019)**. _Estadística con aplicaciones en R._ <http://hdl.handle.net/20.500.12010/21660>
 
-3. 
+3. **Santana, S. y Mateos, E. (2014)**. _El arte de programar en R: un lenguaje para la estadística._
+<http://repositorio.imta.mx/handle/20.500.12013/1151>
 
 
