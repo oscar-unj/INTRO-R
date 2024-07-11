@@ -1,4 +1,11 @@
-# Análisis de Serie Temporal en Lenguaje R con Datos de Mantenimiento de Una Planta Hidroeléctrica
+### Análisis de Serie Temporal en Lenguaje R con Datos de Mantenimiento de Una Planta Hidroeléctrica
+
+Análisis de series temporales en R, de un archivo mantenimiento.csv que contiene los datos de mantenimiento de una planta de generación de energía hidroeléctrica. 
+
+REFERENCIA
 
 
-análisis de series temporales en R, primero necesitas tener el archivo .csv que contiene los datos de mantenimiento de la planta de generación de energía hidroeléctrica. Una vez que tengas los datos, puedes seguir estos pasos generales para realizar el análisis y generar gráficos y estadísticas.
+**OpenAI (2024)**. _ChatGPT_ (Ver. 11 Julio) [Analizar y predecir mantenimiento industrial].
+<https://chatgpt.com/share/dd88b7ff-4755-4116-9de4-e0ed11e7d319>
+
+
