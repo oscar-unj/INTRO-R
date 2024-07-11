@@ -8,6 +8,6 @@ Par tal fín se ha crear un archivo .CSV con datos simulados y código hecho por
 
 Referencia
 
-**OpenAI (2024)**. _ChatGPT_(Versión del 11 de Julio) [Red Neuronal para Mantenimiento]. 
+**OpenAI (2024)**. _ChatGPT_ (Versión del 11 de Julio)  [Red Neuronal para Mantenimiento]. 
 <https://chatgpt.com/share/08fe17f7-4492-458e-9152-073effc86350>
 
