@@ -1,5 +1,6 @@
-## Lenguaje R con H~2O para Machine Learning
+## Lenguaje R con H2O para Machine Learning 
 
+Programa en R utilizando el paquete de machine learning H2O para el mantenimiento industrial de una granja de paneles solares.
 
 REFERENCIA
 
