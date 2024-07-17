@@ -1,4 +1,4 @@
-### Calculo de Calibre AWG Adecuado para instalación de Paneles solares.
+### Calculo de Calibre AWG Adecuado de cable de cobre para instalación de Paneles solares.
 
 Para calcular el diámetro de los cables en una granja de paneles solares, es necesario tener en cuenta la corriente que debe transportar el cable, la distancia que debe recorrer, y la caída de tensión permitida. Un cálculo común es el siguiente:
 
