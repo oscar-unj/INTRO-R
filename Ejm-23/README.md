@@ -2,13 +2,13 @@
 
 Para calcular el diámetro de los cables en una granja de paneles solares, es necesario tener en cuenta la corriente que debe transportar el cable, la distancia que debe recorrer, y la caída de tensión permitida. Un cálculo común es el siguiente:
 
-**Corriente (I)**: Debes conocer la corriente que pasa por el cable.
+1. **Corriente (I)**: Debes conocer la corriente que pasa por el cable.
 
-**Longitud (L)**: La distancia desde el panel solar hasta el inversor o la batería.
+2. **Longitud (L)**: La distancia desde el panel solar hasta el inversor o la batería.
 
-**Caída de tensión permitida (Vd)**: Generalmente expresada como un porcentaje de la tensión total.
+3. **Caída de tensión permitida (Vd)**: Generalmente expresada como un porcentaje de la tensión total.
 
-**Tensión del sistema (V)**: La tensión en la cual opera el sistema de paneles solares.
+4. **Tensión del sistema (V)**: La tensión en la cual opera el sistema de paneles solares.
 
 
 REFERENCIA
