@@ -11,6 +11,7 @@ Para calcular el diámetro de los cables en una granja de paneles solares, es ne
 4. **Tensión del sistema (V)**: La tensión en la cual opera el sistema de paneles solares.
 
 
+
 REFERENCIA
 
 **Oscar Núñez Mori**, Jaén 16-Jul-2024. Basado en:
