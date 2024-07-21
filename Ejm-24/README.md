@@ -1,5 +1,7 @@
 ### Análisis Estadístico de la Demanda Residencial
-Datos en Formato .CSV, de la Demando Residencial de Energía Eléctrica.
+Datos generados artificialmen en Formato .CSV, de la Demando Residencial de Energía Eléctrica y Procesados estadisticamente en Lenguaje R.
+
+Los campos son los siguintes:
 
 1. Fecha (de tipo YYYY-MM-DD)
 2. Consumo (en kWh)
